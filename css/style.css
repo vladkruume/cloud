@@ -1,0 +1,14 @@
+:root{
+    --dark-color--:#211717;
+    --light-color--:#a34a28;
+}
+body{
+    background-color: var(--dark-color--);
+}
+.main-container{
+    width:800px;
+    height: 800px;
+    border: 2px solid var(--light-color--);
+    margin :0 auto;
+}
+<!--https://colorhunt.co/palette/145229-->
